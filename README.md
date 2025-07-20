@@ -64,5 +64,3 @@ npm run build
 - Run `npm run lint` to check code quality.
 - Prettier is set up for consistent code style.
 
-## License
-MIT
